@@ -1,0 +1,113 @@
+[
+
+    {
+        "id": 1,
+        "name": "tribute",
+        "content": "Tribute to my daughter",
+        "website": "http://bocacode.com",
+        "cover": "http://picsum.photos/400/400"
+
+    },
+    {
+        "id": 1,
+        "name": "Kardashed-scale",
+        "content": "Kardashed-scale is a web page create by us (code-c10) in Boca Code after learning about the fundamentals of html et css.",
+        "website": "https://blaurince.github.io/kardashed-scale/"
+            
+    
+        },
+        {
+            "id": 1,
+            "name": "Counter App",
+            "content": "This react counter app was create after learning about useState hook.",
+            "website": "blaurince.github.io/react-counter-app/",
+            "cover": "http://picsum.photos/400/400"
+    
+        },
+        {
+            "id": 4,
+            "name": "About Me ",
+            "Content": "About Me ",
+            "content": "https.bocacode.com",
+            "website": "https://picsum.photos/400/400"
+        },
+        {
+            "id": 5,
+            "name": "counter",
+            "content": "Counter React.js",
+            "website": "https://bocacode.com",
+            "Cover": "https://picsum.photos/400/400"
+        }
+    ,
+    
+     {
+            "id": 6,
+            "name": "counter",
+            "content": "Counter React.js",
+            "website": "http://bocacode.com",
+            "cover": "http://picsum.photos/400/400"
+    
+        }"
+       
+    },
+    {
+        "id": 1,
+        "name": "tribute",
+        "content": "Tribute to my daughter",
+        "website": "http://bocacode.com",
+        "cover": "http://picsum.photos/400/400"
+
+    },
+    {
+        "id": 4,
+        "name": "About Me ",
+        "Content": "About Me ",
+        "content": "",
+        "website": "https://picsum.photos/400/400"
+    },
+    {
+        "id": 5,
+        "name": "counter",
+        "content": "Counter React.js",
+        "website": "https://bocacode.com",
+        "Cover": "https://picsum.photos/400/400"
+    }
+,
+
+ {
+        "id": 6,
+        "name": "counter",
+        "content": "Counter React.js",
+        "website": "http://bocacode.com",
+        "cover": "http://picsum.photos/400/400"
+
+    }",
+        "cover": "http://picsum.photos/400/400"
+
+    },
+    {
+        "id": 4,
+        "name": "About Me ",
+        "Content": "About Me ",
+        "content": "https.bocacode.com",
+        "website": "https://picsum.photos/400/400"
+    },
+    {
+        "id": 5,
+        "name": "counter",
+        "content": "Counter React.js",
+        "website": "https://bocacode.com",
+        "Cover": "https://picsum.photos/400/400"
+    }
+,
+
+ {
+        "id": 6,
+        "name": "counter",
+        "content": "Counter React.js",
+        "website": "http://bocacode.com",
+        "cover": "http://picsum.photos/400/400"
+
+    }
+
+]
